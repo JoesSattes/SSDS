@@ -9,7 +9,7 @@
 import React, {Component} from 'react';
 import {Platform, StyleSheet, Text, View} from 'react-native';
 import FingerprintFeature from './component/fingerprint/FingerprintFeature'
-
+import TestSensor from './component/sensors/TestSensor'
 const instructions = Platform.select({
   ios: 'Press Cmd+R to reload,\n' + 'Cmd+D or shake for dev menu',
   android:
@@ -21,7 +21,8 @@ type Props = {};
 export default class App extends Component<Props> {
   render() {
     return (
-      <FingerprintFeature />
+      // <FingerprintFeature />
+      <TestSensor />
       // <View style={styles.container}>
       //   <Text style={styles.welcome}>Welcome to React Native!</Text>
       //   <Text style={styles.instructions}>To get started, edit App.js</Text>

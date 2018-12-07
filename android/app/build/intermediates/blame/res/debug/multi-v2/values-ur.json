@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/rattanachat/Documents/CIMB3D/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ur/values-ur.xml",
+            "outputFile": "/home/rattanachat/Github/SSDS/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ur/values-ur.xml",
             "map": [
                 {
                     "source": "/home/rattanachat/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/8c3f136859a050faef65b6d769982c51/res/values-ur/values-ur.xml",
