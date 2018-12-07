@@ -1,0 +1,4 @@
+#Fri Dec 07 14:26:21 ICT 2018
+base.0=/home/rattanachat/Documents/CIMB3D/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
